@@ -44,6 +44,10 @@ class Smail extends \Espo\Core\Controllers\Record
            // $emailService = $this->getServiceFactory()->create('Email');
             $email = $this->getEntityManager()->getEntity('Email');
 
+            if (null === $data['text'] or $data['text'] == ''){
+                $data['text'] = 'Привет для Skyeng!';
+            }
+
             $email->set(array(
                 'subject' => $data['subject'],
                 'isHtml' => false,
