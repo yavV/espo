@@ -1,0 +1,32 @@
+[
+    {
+        "label": "New panel",
+        "style": "default",
+        "rows": [
+            [
+                {
+                    "name": "subject",
+                    "fullWidth": true
+                }
+            ],
+            [
+                {
+                    "name": "text"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "fromName"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "toAddress"
+                },
+                false
+            ]
+        ]
+    }
+]

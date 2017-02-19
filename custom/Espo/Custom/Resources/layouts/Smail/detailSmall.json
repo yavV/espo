@@ -1,0 +1,26 @@
+[
+    {
+        "label": "",
+        "style": "default",
+        "rows": [
+            [
+                {
+                    "name": "toAddress"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "fromName"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "subject"
+                },
+                false
+            ]
+        ]
+    }
+]

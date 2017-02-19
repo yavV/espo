@@ -1,0 +1,14 @@
+[
+    {
+        "name": "fromName"
+    },
+    {
+        "name": "toAddress"
+    },
+    {
+        "name": "subject"
+    },
+    {
+        "name": "text"
+    }
+]

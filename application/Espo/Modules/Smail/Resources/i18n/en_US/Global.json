@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "Create Smail": "Create Smail"
+  },
+  "fields": {
+    "fromName": "From name",
+    "toAddress": "To address",
+    "subject": "Subject",
+    "text" : "Text"
+  }
+}

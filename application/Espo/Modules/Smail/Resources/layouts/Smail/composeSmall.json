@@ -1,0 +1,12 @@
+[
+    {
+        "label":"",
+        "rows":[
+
+            [
+                {"name":"toAddress"},
+                {"name":"fromName"}
+            ]
+        ]
+    }
+]

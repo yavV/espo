@@ -1,0 +1,4 @@
+{
+  "view": "smail:views/dashlets/smails",
+  "entityType": "Smail"
+}

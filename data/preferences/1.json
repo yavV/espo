@@ -1,0 +1,46 @@
+{
+    "id": "1",
+    "timeZone": "UTC",
+    "dateFormat": "MM\/DD\/YYYY",
+    "timeFormat": "HH:mm",
+    "weekStart": 0,
+    "defaultCurrency": "USD",
+    "thousandSeparator": ",",
+    "decimalMark": ".",
+    "dashboardLayout": [
+        {
+            "name": "My Espo",
+            "layout": [
+                {
+                    "id": "d426752",
+                    "name": "Smail",
+                    "x": 0,
+                    "y": 0,
+                    "width": 2,
+                    "height": 2
+                }
+            ]
+        }
+    ],
+    "dashletsOptions": {},
+    "smtpServer": "smtp.mail.ru",
+    "smtpPort": 587,
+    "smtpAuth": false,
+    "smtpSecurity": "TLS",
+    "smtpUsername": "admin",
+    "language": "ru_RU",
+    "exportDelimiter": ";",
+    "receiveAssignmentEmailNotifications": true,
+    "receiveMentionEmailNotifications": true,
+    "receiveStreamEmailNotifications": true,
+    "signature": "<p><br><\/p>",
+    "defaultReminders": [],
+    "theme": "",
+    "useCustomTabList": false,
+    "tabList": [
+        "Smail"
+    ],
+    "emailReplyToAllByDefault": true,
+    "emailReplyForceHtml": false,
+    "doNotFillAssignedUserIfNotRequired": false
+}

@@ -1,0 +1,25 @@
+{
+  "fields": {
+    "fromName": {
+      "type": "varchar",
+      "required": true
+    },
+    "toAddress": {
+      "type": "varchar",
+      "required": true
+    },
+    "subject": {
+      "type": "text"
+    },
+    "text": {
+      "type": "text"
+    }
+  },
+  "collection": {
+    "sortBy": "fromName",
+    "asc": false,
+    "boolFilters": [
+      "onlyMy"
+    ]
+  }
+}
